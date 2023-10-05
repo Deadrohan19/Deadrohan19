@@ -18,15 +18,20 @@
 
 ###
 
-<h1 align="center">hey there 👋<br>I'm Rohan</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Rohan+Jaiswal!+😁;&center=true&size=30">
+  </a>
+</h1>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="Center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="Center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
