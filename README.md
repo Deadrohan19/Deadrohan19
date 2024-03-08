@@ -18,11 +18,6 @@
 </div>
 
 ###
-<div align="center">
-<img src="https://raw.githubusercontent.com/deadrohan19/CF-Badge/main/output/light_card.svg#gh-dark-mode-only" alt="CF stats" " />
-</div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -44,15 +39,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
+
+
 ###
 
 <div align="center">
-  <a href="mailto:rohanjaiswal511@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/deadrohan19/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>  
+<img src="https://raw.githubusercontent.com/deadrohan19/CF-Badge/main/output/light_card.svg#gh-dark-mode-only" alt="CF stats" " />
+</div>
+
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/deadrohan19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deadrohan19" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/deadrohan19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deadrohan19" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/deadrohan19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deadrohan19" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/deadroahn19/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deadroahn19/profile" height="30" width="40" /></a>
 </div>
 
 ###
